@@ -1,0 +1,3 @@
+// Executed for each vertex
+// Written in GLSL - part of OpenGL
+// Compiled at runtime

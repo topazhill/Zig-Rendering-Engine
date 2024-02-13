@@ -1,0 +1,3 @@
+// Executed for each sample -> 4x Antialiasing so 4 samples per pixel
+// Written in GLSL - part of OpenGL
+// Compiled at runtime
